@@ -1,99 +1,161 @@
-# Hi 👋, I'm Vamsee
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Software+Developer;AI+Enthusiast;Building+Impactful+Projects" />
+</p>
 
-### Computer Science Student | Software Developer | AI Enthusiast
+<h1 align="center">Hi 👋, I'm Vamsee</h1>
 
-I'm a Computer Science student at KL University passionate about software development, problem-solving, and exploring emerging technologies.
+<h3 align="center">
+Computer Science Student • Software Developer • AI Enthusiast
+</h3>
 
-I enjoy building real-world applications using Java, SQL, Cloud technologies, and AI-powered workflows. Recently, I've been exploring Vibe Coding, developing AI-driven projects, and creating intelligent solutions that automate tasks and improve productivity.
-
-I'm continuously learning through projects, certifications, and hands-on development while expanding my expertise in Data Structures, Cloud Computing, Artificial Intelligence, and Software Engineering.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vemulapalli-vamsee">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Computer Science Student at KL University
-* 💻 Passionate about Software Development
-* 🌱 Currently Learning Data Structures & Cloud Technologies
-* 🤖 Exploring AI Agents and Intelligent Automation
-* ⚡ Building AI-powered applications with Vibe Coding
-* 📚 Always learning and improving through projects
+Hi! I’m a Computer Science student at KL University, and I’m really passionate about software development, problem-solving, and exploring new technologies.
+
+I’ve worked with Java and SQL and am moving deeper into Data Structures to tackle interesting challenges.
+
+Lately, I’ve been having a lot of fun with Vibe Coding, building AI-powered projects, and creating workflows that make tasks smarter and more efficient.
+
+I love continuously improving my skills through certifications, and I’m excited to apply what I’ve learned to real-world projects, collaborate with others who love tech as much as I do, and keep growing my expertise along the way!
 
 ---
 
-## 🛠️ Skills & Technologies
+## 💻 Tech Stack
 
-### Programming Languages
+<table align="center">
+<tr>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" /><br><br>
+<b>Java</b>
+</td>
 
-### Data Science & AI
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" /><br><br>
+<b>MySQL</b>
+</td>
 
-![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
-![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-00C853?style=for-the-badge)
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" /><br><br>
+<b>MongoDB</b>
+</td>
 
-### Cloud
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" /><br><br>
+<b>Git</b>
+</td>
 
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge)
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" /><br><br>
+<b>GitHub</b>
+</td>
 
-### Databases
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=spring" /><br><br>
+<b>Spring Boot</b>
+</td>
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge\&logo=mongodb\&logoColor=white)
+</tr>
+</table>
+
+---
+
+## 🧠 Core Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7B1FA2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AI%20Agents-00C853?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Vibe%20Coding-E91E63?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Problem%20Solving-FF5722?style=for-the-badge" />
+
+</p>
+
+---
+
+## 📚 Relevant Coursework
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C%20Programming-00599C?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Java%20Programming-ED8B00?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence%20%26%20Machine%20Learning-8E24AA?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Database%20Management%20Systems-336791?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Operating%20Systems-4CAF50?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Network%20Protocols-2196F3?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Adaptive%20Software%20Engineering-9C27B0?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Distributed%20Computing-FF5722?style=for-the-badge" />
+
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎓 Student Dropout Risk Dashboard
-
-A data-driven analytics dashboard that predicts and visualizes student dropout risks using machine learning and interactive reporting.
-
-### 🤖 AI Powered IDE
-
-An intelligent development environment with AI-assisted coding, automation, and productivity features.
-
-### 🧠 Personal AI Agent
-
-A smart AI assistant capable of automating workflows, managing tasks, and providing intelligent responses.
-
-### ⏰ Reminder Mobile App
-
-A productivity-focused mobile application that helps users manage reminders and daily activities efficiently.
-
-### 🎮 Gaming Portal
-
-A gaming platform featuring game discovery, management, and interactive user experiences.
+| Project                               | Description                                                                                           |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 🎓 **Student Dropout Risk Dashboard** | Data-driven dashboard that predicts and visualizes student dropout risks using intelligent analytics. |
+| 🤖 **AI Powered IDE**                 | AI-assisted development environment designed to improve coding productivity and developer workflows.  |
+| 🧠 **Personal AI Agent**              | Intelligent assistant capable of task automation, workflow management, and productivity enhancement.  |
+| ⏰ **Reminder Mobile App**             | Smart reminder application that helps users manage schedules and daily activities efficiently.        |
+| 🎮 **Gaming Portal**                  | Interactive gaming platform focused on game discovery and engaging user experiences.                  |
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vamsee295\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsee295\&layout=compact\&theme=tokyonight)
-
----
-
-## 🎯 Current Focus
+## 🌱 Currently Learning
 
 * Data Structures & Algorithms
 * Artificial Intelligence
-* Cloud Technologies
+* Cloud Computing
+* AI Agents & Automation
 * Software Engineering
-* Full Stack Development
-* AI Automation & Agents
+* Advanced Problem Solving
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Areas of Interest
 
-📧 Email: [2300033830cseh1@gmail.com](mailto:2300033830cseh1@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/vemulapalli-vamsee
+* Software Development
+* Artificial Intelligence
+* Data Science
+* Cloud Computing
+* Intelligent Automation
+* AI Agents
+* Emerging Technologies
+* Vibe Coding
 
 ---
 
-### ⭐ “Learning, Building, and Growing One Project at a Time.”
+## 🌐 Connect With Me
+
+📧 **Email:** [2300033830cseh1@gmail.com](mailto:2300033830cseh1@gmail.com)
+
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/vemulapalli-vamsee">linkedin.com/in/vemulapalli-vamsee</a>
+
+---
+
+<h3 align="center">
+⭐ Building • Learning • Growing
+</h3>
